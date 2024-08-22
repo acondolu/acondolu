@@ -11,6 +11,7 @@ Here's a list of some of my personal projects. They are as fun as utterly useles
 | [ji](https://github.com/acondolu/ji) | 🚧 | FFI between the browser and native iOS APIs | TypeScript, SwiftUI |
 | [classy](https://github.com/acondolu/classy) | 🚧 | Experiments on Curry-Howard correspondence for classical logic | LaTeX, Haskell |
 | [vague](https://github.com/acondolu/vague) | 🚧 | Toy proramming language | Haskell |
+| [427](https://github.com/acondolu/427) | ✅ | Employee #427's terminal screen | JavaScript |
 
 <!--
 **acondolu/acondolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

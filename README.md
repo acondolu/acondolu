@@ -7,7 +7,7 @@ Here's a list of some of my personal projects. They are as fun as utterly useles
 | [random-sleep](https://github.com/acondolu/random-sleep) | ✅ | Like POSIX `sleep` utility, but sleep for a (quantum) random amount of time | Haskell |
 | [nf](https://github.com/acondolu/nf) | ✅ | Formal proof of consistency of Quine's New Foundations weaker fragments | Coq Proof Assistant |
 | [quippy](https://github.com/acondolu/quippy) | ✅ | End-to-end encrypted expense splitter | VueJS, MQTT |
-| [vague](https://github.com/acondolu/page) | 🚧 | Collaborative infinite text page | Haskell, TypeScript |
+| [page](https://github.com/acondolu/page) | 🚧 | Collaborative infinite text page | Haskell, TypeScript |
 | [anagni](https://github.com/acondolu/anagni) | 🚧 | Log-based replication framework | TypeScript |
 | [ji](https://github.com/acondolu/ji) | 🚧 | FFI between the browser and native iOS APIs | TypeScript, SwiftUI |
 | [classy](https://github.com/acondolu/classy) | 🚧 | Experiments on Curry-Howard correspondence for classical logic | LaTeX, Haskell |

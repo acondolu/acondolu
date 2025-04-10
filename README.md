@@ -4,15 +4,15 @@ Here's a list of some of my personal projects. They are as fun as utterly useles
 
 | Repository | Status | Description | Technologies |
 |------------|--------|-------------|--------------|
-| [random-sleep](https://github.com/acondolu/random-sleep) | ✅ | Like POSIX `sleep` utility, but sleep for a (quantum) random amount of time | Haskell |
-| [nf](https://github.com/acondolu/nf) | ✅ | Formal proof of consistency of Quine's New Foundations weaker fragments | Coq Proof Assistant |
 | [quippy](https://github.com/acondolu/quippy) | ✅ | End-to-end encrypted expense splitter | VueJS, MQTT |
-| [page](https://github.com/acondolu/page) | 🚧 | Collaborative infinite text page | Haskell, TypeScript |
-| [anagni](https://github.com/acondolu/anagni) | 🚧 | Log-based replication framework | TypeScript |
-| [ji](https://github.com/acondolu/ji) | 🚧 | FFI between the browser and native iOS APIs | TypeScript, SwiftUI |
-| [classy](https://github.com/acondolu/classy) | 🚧 | Experiments on Curry-Howard correspondence for classical logic | LaTeX, Haskell |
-| [vague](https://github.com/acondolu/vague) | 🚧 | Toy proramming language | Haskell |
+| [page](https://github.com/acondolu/page) | ✅ | Collaborative infinite text page | Haskell, TypeScript |
+| [random-sleep](https://github.com/acondolu/random-sleep) | ✅ | Like POSIX `sleep` utility, but sleep for a (quantum) random amount of time | Haskell |
 | [427](https://github.com/acondolu/427) | ✅ | Employee #427's terminal screen | JavaScript |
+| [nf](https://github.com/acondolu/nf) | ✅ | Formal proof of consistency of Quine's New Foundations weaker fragments | Coq Proof Assistant |
+| [anagni](https://github.com/acondolu/anagni) | ⚰️ | Log-based replication framework | TypeScript |
+| [ji](https://github.com/acondolu/ji) | ⚰️ | FFI between the browser and native iOS APIs | TypeScript, SwiftUI |
+| [classy](https://github.com/acondolu/classy) | 🚧 | Experiments on Curry-Howard correspondence for classical logic | LaTeX, Haskell |
+| [vague](https://github.com/acondolu/vague) | 🚧 | Toy programming language | Haskell |
 
 <!--
 **acondolu/acondolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
